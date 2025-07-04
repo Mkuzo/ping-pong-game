@@ -17,3 +17,8 @@
   border-radius: 15px;
   cursor: pointer;
 }
+h1{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
